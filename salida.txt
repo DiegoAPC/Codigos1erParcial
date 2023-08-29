@@ -1,0 +1,20 @@
+
+Dado 1: 6
+
+Dado 2: 1
+
+Lo siento, PERDISTE
+
+Dado 1: 1
+
+Dado 2: 6
+
+Lo siento, PERDISTE
+
+Dado 1: 4
+
+Dado 2: 2
+
+Vuelves a tirar
+
+------------------
